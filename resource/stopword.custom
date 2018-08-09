@@ -1,0 +1,13 @@
+# ----------------------------------------------------------- #
+# Custom Stopword dictionary
+# any token or morph would be hardly removed from processing
+#
+# Usage: TYPE \t ENTRY
+# for token type: T
+# for morph type: M
+# ex) 
+# T : 안녕
+# M : ㄴ다 
+# ----------------------------------------------------------- #
+
+
